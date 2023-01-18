@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NisalDeZoysa
 - 👀 I’m interested in Machine learing, Computer vision
-- 🌱 I’m currently learning Engineering at University of Ruhuna, Sri Lanka
+- 🌱 I’m currently a Computer Engineering Undergraduate at  Faculty of Engineering, University of Ruhuna, Sri Lanka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
