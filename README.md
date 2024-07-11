@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, Web and Mobile Development**
 
-- 💬 Ask me about **ML, DL, React, Node, Springboot**
+- 💬 Ask me about **LSTM , Autoencoders , Generative Adheserial Networks Deeply**
 
 - 📫 How to reach me **nisalchandirade@gmail.com**
 
