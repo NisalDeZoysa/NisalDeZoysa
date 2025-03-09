@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisal Chandira De Zoysa</h1>
-<h3 align="center">3 yr Undergraduate from Department of Computer Engineering, faculty of Engineering, University of Ruhuna</h3>
+<h3 align="center">4 th Undergraduate from Department of Computer Engineering, faculty of Engineering, University of Ruhuna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisaldezoysa&label=Profile%20views&color=0e75b6&style=flat" alt="nisaldezoysa" /> </p>
 
